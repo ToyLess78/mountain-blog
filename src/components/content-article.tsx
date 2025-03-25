@@ -33,40 +33,29 @@ export const ContentArticle = ({
     return (
         <article
             className={cn(
-                "max-w-7xl mx-auto grid md:grid-cols-2 gap-8 px-6 md:px-12 mb-16",
-                reverse && "md:flex-row-reverse",
-                className
+                "max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 lg:gap-6 px-6 md:px-12 mb-16",
+                reverse && "lg:flex-row-reverse",
+                className,
             )}
         >
-            {/* Image */}
-            <div className={cn("relative", reverse ? "order-2" : "order-1")}>
-                <Image
-                    src={image}
-                    alt={imageAlt}
-                    width={800}
-                    height={600}
-                    className="rounded-xs object-cover h-full lg:p-20"
-                />
-            </div>
 
             {/* Text */}
-            <div className={cn("relative z-10", reverse ? "order-1" : "order-2")}>
+            <div className={cn("relative flex items-center", reverse ? "order-1" : "order-2")}>
                 <div
                     className={cn(
-                        "absolute top-0 text-[180px] font-bold text-gray-800/20 leading-none z-0",
-                        reverse ? "-right-4" : "-left-4"
+                        "absolute -top-12 md:top-12 text-[180px] font-bold text-gray-400/20 leading-none -left-6",
                     )}
                 >
                     {number}
                 </div>
 
-                <div className="relative z-10">
+                <div className="relative  z-10 pl-18">
                     <div className="flex items-center mb-6">
                         <div className="w-10 h-[2px] bg-[#fbd784] mr-4" />
-                        <span className="text-yellow uppercase tracking-widest text-sm">{badge}</span>
+                        <span className="text-yellow font-bold uppercase tracking-widest text-sm">{badge}</span>
                     </div>
 
-                    <h2 className="text-4xl md:text-5xl font-bold text-white leading-tight mb-8">
+                    <h2 className="text-4xl md:text-5xl text-white leading-tight mb-8">
                         {title}
                         <br />
                         {subtitle}
@@ -74,12 +63,23 @@ export const ContentArticle = ({
 
                     <p className="text-white/80 mb-8 max-w-md">{description}</p>
 
-                    <Link href={linkHref} className="inline-flex items-center text-yellow hover:underline">
+                    <Link href={linkHref} className="inline-flex items-center text-yellow font-semibold hover:underline">
                         <span className="mr-2">{linkText}</span>
                         <ArrowRight className="h-4 w-4" />
                     </Link>
                 </div>
             </div>
+            {/* Image */}
+            <div className={cn("relative lg:w-2/3", reverse ? "lg:order-2 lg:ml-auto" : "lg:order-1")}>
+                <Image
+                    src={image || "/placeholder.svg"}
+                    alt={imageAlt}
+                    width={800}
+                    height={600}
+                    className="rounded-xs object-cover h-full"
+                />
+            </div>
         </article>
     )
 }
+
