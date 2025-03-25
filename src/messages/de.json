@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "MNTN - Bergwanderführer",
+    "description": "Sei vorbereitet für die Berge und darüber hinaus mit unseren Wanderführern und Ausrüstung"
+  },
+  "navigation": {
+    "equipment": "Ausrüstung",
+    "about": "Über uns",
+    "blog": "Blog",
+    "account": "Konto"
+  },
+  "hero": {
+    "badge": "Ein Wanderführer",
+    "title": "Sei vorbereitet für die Berge und darüber hinaus!",
+    "scrollDown": "nach unten scrollen",
+    "followUs": "Folge uns"
+  },
+  "content": {
+    "section1": {
+      "number": "01",
+      "badge": "Erste Schritte",
+      "title": "Welches Wanderniveau",
+      "subtitle": "hast du?",
+      "description": "Die Bestimmung deines Wanderniveaus kann ein wichtiges Hilfsmittel bei der Planung zukünftiger Wanderungen sein. Dieser Wanderniveau-Leitfaden hilft dir, Wanderungen entsprechend verschiedener Bewertungen von Websites wie All Trails und Modern Hiker zu planen. Welcher Wandertyp bist du – Anfänger, Fortgeschrittener, Experte oder Rucksacktourist?",
+      "linkText": "weiterlesen"
+    },
+    "section2": {
+      "number": "02",
+      "badge": "Wanderausrüstung",
+      "title": "Die richtige",
+      "subtitle": "Ausrüstung wählen!",
+      "description": "Das Schöne am Wandern für Anfänger ist, dass du keine spezielle Ausrüstung benötigst, du kannst wahrscheinlich mit Dingen auskommen, die du bereits hast. Fangen wir mit der Kleidung an. Ein typischer Fehler, den Wanderanfänger machen, ist das Tragen von Jeans und normaler Kleidung, die schwer werden und scheuern, wenn sie nass oder verschwitzt sind.",
+      "linkText": "weiterlesen"
+    },
+    "section3": {
+      "number": "03",
+      "badge": "Wohin du gehst ist entscheidend",
+      "title": "Verstehe deine",
+      "subtitle": "Karte & Zeitplanung",
+      "description": "Drucke zunächst den Wanderführer und die Karte aus. Wenn es regnet, stecke sie in einen Zip-Lock-Beutel. Lies den Führer durch, studiere die Karte und mache dir ein gutes Bild davon, was dich erwartet. Ich mag es zu wissen, was mein nächster Orientierungspunkt beim Wandern ist. Zum Beispiel lese ich den Führer und weiß, dass ich in einer Meile an der Kreuzung rechts abbiegen muss.",
+      "linkText": "weiterlesen"
+    }
+  },
+  "equipment": {
+    "hero": {
+      "badge": "WANDERAUSRÜSTUNG",
+      "title": "Wesentliche Ausrüstung",
+      "subtitle": "Für deine Reise",
+      "description": "Die richtige Ausrüstung kann den Unterschied zwischen einer angenehmen Wanderung und einer unangenehmen Erfahrung ausmachen. Unsere Ausrüstungsführer helfen dir, dich auf jedes Gelände und jede Wetterbedingung vorzubereiten.",
+      "linkText": "weiterlesen"
+    },
+    "categories": {
+      "title": "Wesentliche Wanderausrüstung",
+      "description": "Von Tageswanderungen bis hin zu mehrtägigen Trekkingtouren, die richtige Ausrüstung gewährleistet deine Sicherheit und deinen Komfort auf dem Weg.",
+      "backpacks": {
+        "title": "Rucksäcke",
+        "description": "Von Tagesrucksäcken bis hin zu Expeditionstaschen, finde den perfekten Rucksack für dein Abenteuer.",
+        "linkText": "Rucksäcke ansehen"
+      },
+      "footwear": {
+        "title": "Schuhwerk",
+        "description": "Geeignete Wanderschuhe und -stiefel für verschiedene Geländearten und Wetterbedingungen.",
+        "linkText": "Schuhwerk ansehen"
+      },
+      "clothing": {
+        "title": "Kleidung",
+        "description": "Schichtsysteme, Wetterschutz und bequeme Wanderbekleidung.",
+        "linkText": "Kleidung ansehen"
+      },
+      "navigation": {
+        "title": "Navigation",
+        "description": "Karten, Kompasse, GPS-Geräte und andere Hilfsmittel, um auf dem richtigen Weg zu bleiben.",
+        "linkText": "Navigationstools ansehen"
+      },
+      "camping": {
+        "title": "Campingausrüstung",
+        "description": "Zelte, Schlafsäcke, Kochausrüstung und andere Übernachtungsutensilien.",
+        "linkText": "Campingausrüstung ansehen"
+      },
+      "safety": {
+        "title": "Sicherheit & Erste Hilfe",
+        "description": "Notfallvorräte, Erste-Hilfe-Sets und Sicherheitsausrüstung für den Weg.",
+        "linkText": "Sicherheitsausrüstung ansehen"
+      }
+    },
+    "featured": {
+      "badge": "EMPFOHLENE AUSRÜSTUNG",
+      "title": "Unsere Top-Auswahl für 2023",
+      "boots": {
+        "title": "Trailmaster Pro Wanderstiefel",
+        "description": "Wasserdicht, atmungsaktiv und langlebig - diese Stiefel bieten ausgezeichneten Knöchelschutz und Grip auf verschiedenen Untergründen.",
+        "reviews": "(128 Bewertungen)",
+        "linkText": "Details ansehen"
+      },
+      "backpack": {
+        "title": "Alpine Explorer 45L Rucksack",
+        "description": "Leicht und dennoch geräumig, mit ergonomischem Design und mehreren Fächern für organisierte Aufbewahrung.",
+        "reviews": "(94 Bewertungen)",
+        "linkText": "Details ansehen"
+      }
+    },
+    "guide": {
+      "badge": "EXPERTENRAT",
+      "title": "Wie man die richtige Ausrüstung wählt",
+      "description": "Die Auswahl der richtigen Wanderausrüstung hängt von verschiedenen Faktoren ab, einschließlich der Art der Wanderung, des Geländes, der Wetterbedingungen und deiner persönlichen Vorlieben.",
+      "tips": [
+        "Berücksichtige die Länge und Schwierigkeit deiner typischen Wanderungen",
+        "Beziehe saisonale Wettermuster für deine Wanderorte ein",
+        "Priorisiere Komfort und passende Größe, besonders bei Schuhwerk und Rucksäcken",
+        "Balanciere Gewichtsüberlegungen mit Haltbarkeit und Funktionalität"
+      ],
+      "linkText": "Unseren vollständigen Leitfaden lesen"
+    }
+  },
+  "footer": {
+    "tagline": "Geh raus und entdecke deinen nächsten Hang, Berg und dein nächstes Ziel!",
+    "copyright": "Copyright 2023 MNTN, Inc. Nutzungsbedingungen & Datenschutz",
+    "blog": {
+      "title": "Mehr im Blog",
+      "about": "Über MNTN",
+      "contributors": "Mitwirkende & Autoren",
+      "writeForUs": "Für uns schreiben",
+      "contactUs": "Kontaktiere uns",
+      "privacy": "Datenschutzrichtlinie"
+    },
+    "more": {
+      "title": "Mehr über MNTN",
+      "team": "Das Team",
+      "jobs": "Jobs",
+      "press": "Presse"
+    }
+  },
+  "languageSwitcher": {
+    "label": "Sprache",
+    "en": "Englisch",
+    "de": "Deutsch",
+    "pl": "Polnisch"
+  }
+}
+
