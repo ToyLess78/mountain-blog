@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "title": "MNTN - Przewodnik po górskich wędrówkach",
+    "description": "Bądź przygotowany na góry i nie tylko z naszymi przewodnikami i sprzętem turystycznym"
+  },
+  "navigation": {
+    "equipment": "Sprzęt",
+    "about": "O nas",
+    "blog": "Blog",
+    "account": "Konto"
+  },
+  "hero": {
+    "badge": "Przewodnik po górach",
+    "title": "Bądź przygotowany na góry i nie tylko!",
+    "scrollDown": "przewiń w dół",
+    "followUs": "Obserwuj nas"
+  },
+  "content": {
+    "section1": {
+      "number": "01",
+      "badge": "Rozpocznij",
+      "title": "Jaki poziom",
+      "subtitle": "pieszej wędrówki reprezentujesz?",
+      "description": "Określenie, jaki poziom pieszej wędrówki reprezentujesz, może być ważnym narzędziem podczas planowania przyszłych wycieczek. Ten przewodnik pomoże ci zaplanować wędrówki zgodnie z różnymi ocenami ustalonymi przez różne strony internetowe, takie jak All Trails i Modern Hiker. Jakim typem wędrowca jesteś – początkującym, umiarkowanym, zaawansowanym, ekspertem czy ekspertem z plecakiem?",
+      "linkText": "czytaj więcej"
+    },
+    "section2": {
+      "number": "02",
+      "badge": "Niezbędnik wędrowca",
+      "title": "Wybieranie odpowiedniego",
+      "subtitle": "sprzętu turystycznego!",
+      "description": "Miłą rzeczą w rozpoczynaniu wędrówek jest to, że tak naprawdę nie potrzebujesz żadnego specjalnego sprzętu, prawdopodobnie możesz poradzić sobie z rzeczami, które już masz. Zacznijmy od ubrania. Typowym błędem, który popełniają początkujący piechurzy, jest noszenie dżinsów i zwykłych ubrań, które staną się ciężkie i będą obcierać, gdy się spocisz lub zamokną.",
+      "linkText": "czytaj więcej"
+    },
+    "section3": {
+      "number": "03",
+      "badge": "Dokąd idziesz jest kluczowe",
+      "title": "Zrozum swoją",
+      "subtitle": "mapę i czas",
+      "description": "Na początek wydrukuj przewodnik turystyczny i mapę. Jeśli pada deszcz, włóż je do woreczka Zip-Lock. Przeczytaj przewodnik, przestudiuj mapę i miej dobre wyobrażenie o tym, czego się spodziewać. Lubię wiedzieć, jaki jest mój następny punkt orientacyjny podczas wędrówki. Na przykład, czytam przewodnik i wiem, że powiedzmy, za milę, skręcam w prawo na skrzyżowaniu.",
+      "linkText": "czytaj więcej"
+    }
+  },
+  "equipment": {
+    "hero": {
+      "badge": "NIEZBĘDNIK TURYSTYCZNY",
+      "title": "Niezbędny sprzęt",
+      "subtitle": "na twoją podróż",
+      "description": "Odpowiedni sprzęt może stanowić różnicę między przyjemną wędrówką a nieprzyjemnym doświadczeniem. Nasze przewodniki po sprzęcie pomogą ci przygotować się na każdy teren i warunki pogodowe, które możesz napotkać.",
+      "linkText": "czytaj więcej"
+    },
+    "categories": {
+      "title": "Niezbędny sprzęt turystyczny",
+      "description": "Od jednodniowych wycieczek po kilkudniowe wyprawy, posiadanie odpowiedniego sprzętu zapewnia bezpieczeństwo i komfort na szlaku.",
+      "backpacks": {
+        "title": "Plecaki",
+        "description": "Od plecaków dziennych po torby ekspedycyjne, znajdź idealny plecak na swoją przygodę.",
+        "linkText": "Zobacz plecaki"
+      },
+      "footwear": {
+        "title": "Obuwie",
+        "description": "Odpowiednie buty i obuwie turystyczne dla różnych terenów i warunków pogodowych.",
+        "linkText": "Zobacz obuwie"
+      },
+      "clothing": {
+        "title": "Odzież",
+        "description": "Systemy warstwowe, ochrona przed warunkami atmosferycznymi i wygodna odzież turystyczna.",
+        "linkText": "Zobacz odzież"
+      },
+      "navigation": {
+        "title": "Nawigacja",
+        "description": "Mapy, kompasy, urządzenia GPS i inne narzędzia, aby utrzymać cię na właściwej ścieżce.",
+        "linkText": "Zobacz narzędzia nawigacyjne"
+      },
+      "camping": {
+        "title": "Sprzęt kempingowy",
+        "description": "Namioty, śpiwory, sprzęt do gotowania i inne niezbędne rzeczy na noc.",
+        "linkText": "Zobacz sprzęt kempingowy"
+      },
+      "safety": {
+        "title": "Bezpieczeństwo i pierwsza pomoc",
+        "description": "Zapasy awaryjne, zestawy pierwszej pomocy i sprzęt bezpieczeństwa na szlak.",
+        "linkText": "Zobacz sprzęt bezpieczeństwa"
+      }
+    },
+    "featured": {
+      "badge": "POLECANY SPRZĘT",
+      "title": "Nasze najlepsze wybory na 2023 rok",
+      "boots": {
+        "title": "Buty turystyczne Trailmaster Pro",
+        "description": "Wodoodporne, oddychające i trwałe - te buty zapewniają doskonałe wsparcie dla kostki i przyczepność na różnych terenach.",
+        "reviews": "(128 recenzji)",
+        "linkText": "Zobacz szczegóły"
+      },
+      "backpack": {
+        "title": "Plecak Alpine Explorer 45L",
+        "description": "Lekki, a jednocześnie przestronny, z ergonomicznym designem i wieloma przegródkami do zorganizowanego przechowywania.",
+        "reviews": "(94 recenzje)",
+        "linkText": "Zobacz szczegóły"
+      }
+    },
+    "guide": {
+      "badge": "PORADY EKSPERTÓW",
+      "title": "Jak wybrać odpowiedni sprzęt",
+      "description": "Wybór odpowiedniego sprzętu turystycznego zależy od różnych czynników, w tym rodzaju wędrówki, terenu, warunków pogodowych i twoich osobistych preferencji.",
+      "tips": [
+        "Weź pod uwagę długość i trudność typowych wędrówek",
+        "Uwzględnij sezonowe wzorce pogodowe dla twoich lokalizacji turystycznych",
+        "Priorytetowo traktuj komfort i odpowiednie dopasowanie, szczególnie w przypadku obuwia i plecaków",
+        "Zrównoważ względy wagowe z trwałością i funkcjonalnością"
+      ],
+      "linkText": "Przeczytaj nasz kompletny przewodnik"
+    }
+  },
+  "footer": {
+    "tagline": "Wyjdź i odkryj swój następny stok, górę i cel podróży!",
+    "copyright": "Copyright 2023 MNTN, Inc. Warunki i prywatność",
+    "blog": {
+      "title": "Więcej na blogu",
+      "about": "O MNTN",
+      "contributors": "Współpracownicy i pisarze",
+      "writeForUs": "Pisz dla nas",
+      "contactUs": "Skontaktuj się z nami",
+      "privacy": "Polityka prywatności"
+    },
+    "more": {
+      "title": "Więcej o MNTN",
+      "team": "Zespół",
+      "jobs": "Praca",
+      "press": "Prasa"
+    }
+  },
+  "languageSwitcher": {
+    "label": "Język",
+    "en": "Angielski",
+    "de": "Niemiecki",
+    "pl": "Polski"
+  }
+}

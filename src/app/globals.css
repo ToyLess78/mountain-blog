@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/chronicle-display');
+@import url('https://fonts.cdnfonts.com/css/gilroy');
 @import "tailwindcss";
 
 :root {
@@ -6,6 +8,8 @@
   --foreground: 0, 0%, 100%;
   --yellow: #fbd784;
   --custom-gradient: linear-gradient(347deg, rgba(11, 29, 38, 0) 0%, #0b1d26 100%);
+  --font-heading: 'Chronicle Display', serif;
+  --font-body: 'Gilroy', sans-serif;
 }
 
 @theme inline {
@@ -26,6 +30,7 @@
 }
 
 body {
+  font-family: var(--font-body);
   @apply bg-background text-white;
 }
 
@@ -33,10 +38,9 @@ body {
   body {
     @apply antialiased;
   }
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
 }
 
 @keyframes cloud-move {

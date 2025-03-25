@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "MNTN - Mountain Hiking Guide",
+    "description": "Be prepared for the mountains and beyond with our hiking guides and equipment"
+  },
+  "navigation": {
+    "equipment": "Equipment",
+    "about": "About us",
+    "blog": "Blog",
+    "account": "Account"
+  },
+  "hero": {
+    "badge": "A Hiking Guide",
+    "title": "Be Prepared For The Mountains And Beyond!",
+    "scrollDown": "scroll down",
+    "followUs": "Follow us"
+  },
+  "content": {
+    "section1": {
+      "number": "01",
+      "badge": "Get Started",
+      "title": "What level of hiker",
+      "subtitle": "are you?",
+      "description": "Determining what level of hiker you are can be an important tool when planning future hikes. This hiking level guide will help you plan hikes according to different hike ratings set by various websites like All Trails and Modern Hiker. What type of hiker are you – novice, moderate, advanced moderate, expert, or expert backpacker?",
+      "linkText": "read more"
+    },
+    "section2": {
+      "number": "02",
+      "badge": "Hiking Essentials",
+      "title": "Picking the right",
+      "subtitle": "Hiking Gear!",
+      "description": "The nice thing about beginning hiking is that you don't really need any special gear, you can probably get away with things you already have. Let's start with clothing. A typical mistake hiking beginners make is wearing jeans and regular clothes, which will get heavy and chafe when they get sweaty or wet.",
+      "linkText": "read more"
+    },
+    "section3": {
+      "number": "03",
+      "badge": "Where you go is the key",
+      "title": "Understand Your",
+      "subtitle": "Map & Timing",
+      "description": "To start, print out the hiking guide and map. If it's raining, throw them in a Zip-Lock bag. Read over the guide, study the map, and have a good idea of what to expect. I like to know what my next landmark is as I hike. For example, I'll read the guide and know that say, in a mile, I make a right turn at the junction.",
+      "linkText": "read more"
+    }
+  },
+  "equipment": {
+    "hero": {
+      "badge": "HIKING ESSENTIALS",
+      "title": "Essential Equipment",
+      "subtitle": "For Your Journey",
+      "description": "The right gear can make the difference between an enjoyable hike and a miserable experience. Our equipment guides help you prepare for any terrain and weather condition you might encounter.",
+      "linkText": "read more"
+    },
+    "categories": {
+      "title": "Essential Hiking Equipment",
+      "description": "From day hikes to multi-day treks, having the right equipment ensures your safety and comfort on the trail.",
+      "backpacks": {
+        "title": "Backpacks",
+        "description": "From day packs to expedition bags, find the perfect backpack for your adventure.",
+        "linkText": "View backpacks"
+      },
+      "footwear": {
+        "title": "Footwear",
+        "description": "Proper hiking boots and shoes for different terrains and weather conditions.",
+        "linkText": "View footwear"
+      },
+      "clothing": {
+        "title": "Clothing",
+        "description": "Layering systems, weather protection, and comfortable hiking apparel.",
+        "linkText": "View clothing"
+      },
+      "navigation": {
+        "title": "Navigation",
+        "description": "Maps, compasses, GPS devices, and other tools to keep you on the right path.",
+        "linkText": "View navigation tools"
+      },
+      "camping": {
+        "title": "Camping Gear",
+        "description": "Tents, sleeping bags, cooking equipment, and other overnight essentials.",
+        "linkText": "View camping gear"
+      },
+      "safety": {
+        "title": "Safety & First Aid",
+        "description": "Emergency supplies, first aid kits, and safety equipment for the trail.",
+        "linkText": "View safety equipment"
+      }
+    },
+    "featured": {
+      "badge": "RECOMMENDED GEAR",
+      "title": "Our Top Picks For 2023",
+      "boots": {
+        "title": "Trailmaster Pro Hiking Boots",
+        "description": "Waterproof, breathable, and durable - these boots provide excellent ankle support and grip on various terrains.",
+        "reviews": "(128 reviews)",
+        "linkText": "View details"
+      },
+      "backpack": {
+        "title": "Alpine Explorer 45L Backpack",
+        "description": "Lightweight yet spacious, with an ergonomic design and multiple compartments for organized storage.",
+        "reviews": "(94 reviews)",
+        "linkText": "View details"
+      }
+    },
+    "guide": {
+      "badge": "EXPERT ADVICE",
+      "title": "How To Choose The Right Equipment",
+      "description": "Selecting the right hiking equipment depends on various factors including the type of hike, terrain, weather conditions, and your personal preferences.",
+      "tips": [
+        "Consider the length and difficulty of your typical hikes",
+        "Factor in seasonal weather patterns for your hiking locations",
+        "Prioritize comfort and proper fit, especially for footwear and backpacks",
+        "Balance weight considerations with durability and functionality"
+      ],
+      "linkText": "Read our complete guide"
+    }
+  },
+  "footer": {
+    "tagline": "Get out there & discover your next slope, mountain & destination!",
+    "copyright": "Copyright 2023 MNTN, Inc. Terms & Privacy",
+    "blog": {
+      "title": "More on The Blog",
+      "about": "About MNTN",
+      "contributors": "Contributors & Writers",
+      "writeForUs": "Write For Us",
+      "contactUs": "Contact Us",
+      "privacy": "Privacy Policy"
+    },
+    "more": {
+      "title": "More on MNTN",
+      "team": "The Team",
+      "jobs": "Jobs",
+      "press": "Press"
+    }
+  },
+  "languageSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "de": "German",
+    "pl": "Polish"
+  }
+}
+
