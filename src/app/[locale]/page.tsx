@@ -10,7 +10,6 @@ import LanguageSwitcher from "~/components/language-switcher"
 import {useTranslations} from "next-intl"
 
 export default function Home() {
-  const t = useTranslations()
   const nav = useTranslations("navigation")
   const hero = useTranslations("hero")
   const footer = useTranslations("footer")
@@ -109,7 +108,7 @@ export default function Home() {
 
           {/* Static Hero Content */}
           <div className="absolute inset-0 z-10 flex flex-col items-center justify-center">
-            <div className="max-w-4xl mx-auto text-center md:text-left px-6 md:px-12">
+            <div className="max-w-4xl mx-auto text-center md:text-left px-6 md:px-30 lg:px-12">
               <div className="flex items-center justify-center md:justify-start mb-6">
                 <div className="w-10 h-[2px] bg-yellow mr-4"></div>
                 <span className="text-yellow font-bold uppercase tracking-widest text-sm">{hero("badge")}</span>
@@ -127,7 +126,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="relative -mt-15 md:-mt-50 lg:mt-0 overflow-hidden z-50">
+        <section className="relative -mt-25 pt-20 overflow-hidden z-50">
           {contentSections.map((article, index) => (
               <ContentArticle key={index} {...article} />
           ))}
