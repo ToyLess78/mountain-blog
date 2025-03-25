@@ -33,17 +33,17 @@ export const ContentArticle = ({
     return (
         <article
             className={cn(
-                "max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 lg:gap-6 px-6 md:px-12 mb-16",
+                "max-w-7xl mx-auto grid lg:grid-cols-2 gap-16 lg:gap-6 px-6 md:px-12 mb-16",
                 reverse && "lg:flex-row-reverse",
                 className,
             )}
         >
 
             {/* Text */}
-            <div className={cn("relative flex items-center", reverse ? "order-1" : "order-2")}>
+            <div className={cn("relative flex items-center order-1", reverse ? "order-1" : "order-2")}>
                 <div
                     className={cn(
-                        "absolute -top-12 md:top-12 text-[180px] font-bold text-gray-400/20 leading-none -left-6",
+                        "absolute -top-16 md:-top-12 text-[180px] font-bold text-gray-400/20 leading-none -left-6",
                     )}
                 >
                     {number}
@@ -69,8 +69,9 @@ export const ContentArticle = ({
                     </Link>
                 </div>
             </div>
+
             {/* Image */}
-            <div className={cn("relative lg:w-2/3", reverse ? "lg:order-2 lg:ml-auto" : "lg:order-1")}>
+            <div className={cn("relative lg:w-2/3 order-2", reverse ? "lg:order-2 lg:ml-auto" : "lg:order-1")}>
                 <Image
                     src={image || "/placeholder.svg"}
                     alt={imageAlt}
