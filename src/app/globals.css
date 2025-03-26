@@ -1,15 +1,19 @@
-@import url('https://fonts.cdnfonts.com/css/chronicle-display');
-@import url('https://fonts.cdnfonts.com/css/gilroy');
+@import url("https://fonts.cdnfonts.com/css/chronicle-display");
+@import url("https://fonts.cdnfonts.com/css/gilroy");
 @import "tailwindcss";
 
 :root {
   --accent: 45, 85%, 72%;
-  --background: #0B1D26;
+  --background: #0b1d26;
   --foreground: 0, 0%, 100%;
   --yellow: #fbd784;
-  --custom-gradient: linear-gradient(347deg, rgba(11, 29, 38, 0) 0%, #0b1d26 100%);
-  --font-heading: 'Chronicle Display', serif;
-  --font-body: 'Gilroy', sans-serif;
+  --custom-gradient: linear-gradient(
+    347deg,
+    rgba(11, 29, 38, 0) 0%,
+    #0b1d26 100%
+  );
+  --font-heading: "Chronicle Display", serif;
+  --font-body: "Gilroy", sans-serif;
 }
 
 @theme inline {
@@ -23,7 +27,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --accent: 45, 85%, 72%;
-    --background: #0B1D26;
+    --background: #0b1d26;
     --foreground: 0, 0%, 100%;
     --yellow: #fbd784;
   }
@@ -38,7 +42,11 @@ body {
   body {
     @apply antialiased;
   }
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h4,
+  h5,
+  h6 {
     font-family: var(--font-heading);
   }
 }
@@ -55,7 +63,7 @@ body {
 @keyframes cloud-move-once {
   0% {
     transform: none;
-    opacity: .7;
+    opacity: 0.7;
   }
   100% {
     transform: translateX(-100%);
@@ -93,5 +101,3 @@ body {
     z-index: 1;
   }
 }
-
-
