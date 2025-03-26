@@ -1,11 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import {ChevronDown, Facebook, Instagram, Youtube} from "lucide-react";
+import { ChevronDown, Facebook, Instagram, Youtube } from "lucide-react";
 import HeroCarousel from "~/components/hero-carousel";
 import Clouds from "~/components/clouds";
-import {ContentArticle} from "~/components/content-article";
-import {useTranslations} from "next-intl";
+import { ContentArticle } from "~/components/content-article";
+import { useTranslations } from "next-intl";
 import InfoAccordion from "~/components/info-accordion";
 
 export default function Home() {
@@ -21,7 +21,7 @@ export default function Home() {
       description: content("section1.description"),
       linkHref: "#",
       linkText: content("section1.linkText"),
-      image: "/blog/blog-01.png",
+      image: "/blog/blog-01.webp",
       imageAlt: "Hiker on mountain trail",
       reverse: true,
     },
@@ -33,7 +33,7 @@ export default function Home() {
       description: content("section2.description"),
       linkHref: "/equipment",
       linkText: content("section2.linkText"),
-      image: "/blog/blog-02.png",
+      image: "/blog/blog-02.webp",
       imageAlt: "Hiker with backpack looking at mountains",
       reverse: false,
     },
@@ -45,7 +45,7 @@ export default function Home() {
       description: content("section3.description"),
       linkHref: "#",
       linkText: content("section3.linkText"),
-      image: "/blog/blog-03.png",
+      image: "/blog/blog-03.webp",
       imageAlt: "Hand holding compass with mountain view",
       reverse: true,
     },

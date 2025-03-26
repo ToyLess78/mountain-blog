@@ -4,31 +4,31 @@ import { cn } from "~/lib/utils";
 
 const cloudImages = [
   {
-    src: "/clouds/cloud-03.png",
+    src: "/clouds/cloud-03.webp",
     alt: "Cloud 0",
     animation: "animate-cloud15",
     extra: "z-20 opacity-0",
   },
   {
-    src: "/clouds/cloud-03.png",
+    src: "/clouds/cloud-03.webp",
     alt: "Cloud 1",
     animation: "animate-cloud20",
     extra: "z-1",
   },
   {
-    src: "/clouds/cloud-01.png",
+    src: "/clouds/cloud-01.webp",
     alt: "Cloud 2",
     animation: "animate-cloud40",
     extra: "z-1",
   },
   {
-    src: "/clouds/cloud-02.png",
+    src: "/clouds/cloud-02.webp",
     alt: "Cloud 3",
     animation: "animate-cloud60",
     extra: "z-20 opacity-25",
   },
   {
-    src: "/clouds/cloud-04.png",
+    src: "/clouds/cloud-04.webp",
     alt: "Cloud 4",
     animation: "animate-cloud80",
     extra: "z-20 opacity-50",
