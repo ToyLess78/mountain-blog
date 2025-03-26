@@ -11,7 +11,7 @@ import {
   AccordionTrigger,
 } from "~/components/ui/accordion";
 
-import Background from "../../public/faq/faq-bg.jpg";
+import Background from "../../public/faq/faq-bg.webp";
 
 export default function InfoAccordion() {
   const t = useTranslations("infoAccordion");

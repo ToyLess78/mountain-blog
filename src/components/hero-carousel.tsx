@@ -13,27 +13,27 @@ interface SlideImage {
 const slides: SlideImage[] = [
   {
     id: 1,
-    image: "/hero/hero-01.png",
+    image: "/hero/hero-01.webp",
     alt: "Mountain landscape with hiking trails",
   },
   {
     id: 2,
-    image: "/hero/hero-02.png",
+    image: "/hero/hero-02.webp",
     alt: "Alpine mountain peaks with snow",
   },
   {
     id: 3,
-    image: "/hero/hero-03.png",
+    image: "/hero/hero-03.webp",
     alt: "Mountain summit with panoramic view",
   },
   {
     id: 4,
-    image: "/hero/hero-04.png",
+    image: "/hero/hero-04.webp",
     alt: "Mountain summit with panoramic view",
   },
   {
     id: 5,
-    image: "/hero/hero-05.png",
+    image: "/hero/hero-05.webp",
     alt: "Mountain summit with panoramic view",
   },
 ];
